@@ -1,0 +1,2 @@
+rootProject.name='GADS Leadership'
+include ':app'

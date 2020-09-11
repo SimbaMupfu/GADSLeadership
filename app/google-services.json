@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160092948912",
+    "firebase_url": "https://gadsleadership.firebaseio.com",
+    "project_id": "gadsleadership",
+    "storage_bucket": "gadsleadership.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160092948912:android:c0cd8f0bb0cfbd305bae75",
+        "android_client_info": {
+          "package_name": "hustle.sims.inc.gadsleadership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160092948912-mc82s1u24rb9hn6rsgjbt2coq30n15c7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqeL-7Px6hWtCBMWuzU_cPY2A9c60652s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160092948912-mc82s1u24rb9hn6rsgjbt2coq30n15c7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
